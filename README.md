@@ -24,6 +24,14 @@ applicable law or agreed to in writing, software distributed under the License i
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language
 governing permissions and limitations under the License.
 
+## Central Maven
+
+     <dependency>
+       <groupId>com.jhlabs</groupId>
+       <artifactId>filters</artifactId>
+       <version>2.0.235-1</version>
+     </dependency>
+
 ## Links
 
   * https://issues.sonatype.org/browse/OSSRH-4718
