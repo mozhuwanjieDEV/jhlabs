@@ -19,8 +19,8 @@
     </license>
   </licenses>
   <scm>
-    <url>https://github.com/axet/vget</url>
-    <connection>scm:git:https://github.com/axet/vget</connection>
+    <url>https://github.com/axet/jhlabs</url>
+    <connection>scm:git:https://github.com/axet/jhlabs</connection>
   </scm>
 
   <properties>
