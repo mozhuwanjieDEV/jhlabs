@@ -5,6 +5,11 @@ Clone of jhlabs filters library.
 Unfortunately original upload to Maven Cetral Repo has missing filters. And I unable to find / contact the person who made the first upload.
 After contacting sonatype.org, we have decided to re-upload the source with new version prefix.
 
+## Original links
+
+  * http://www.jhlabs.com/ip/index.html
+  * http://www.jhlabs.com/ip/filters/index.html
+
 ## Licence
 
 http://www.jhlabs.com/ip/filters/download.html
