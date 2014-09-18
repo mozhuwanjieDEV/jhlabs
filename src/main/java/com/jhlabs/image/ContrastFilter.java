@@ -37,7 +37,7 @@ public class ContrastFilter extends TransferFilter {
      * Set the filter brightness.
      * @param brightness the brightness in the range 0 to 1
      * @min-value 0
-     * @max-value 0
+     * @max-value 1
      * @see #getBrightness
      */
 	public void setBrightness(float brightness) {
@@ -58,7 +58,7 @@ public class ContrastFilter extends TransferFilter {
      * Set the filter contrast.
      * @param contrast the contrast in the range 0 to 1
      * @min-value 0
-     * @max-value 0
+     * @max-value 1
      * @see #getContrast
      */
 	public void setContrast(float contrast) {
